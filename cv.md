@@ -52,7 +52,7 @@
 
 ---
 
-#### **Additional education**
+#### **ADDITIONAL EDUCATION**
 
 > - **HTML Academy** - [Click me](https://htmlacademy.ru/)
 >
