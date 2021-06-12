@@ -4,13 +4,13 @@
 
 #### **CONTACT DETAILS**
 
-> - **E-MAIL:** sheglovofficial@gmail.com
+> - **E-MAIL** - sheglovofficial@gmail.com
 >
-> - **VKONTAKTE:** [Click me](https://vk.com/sheglov_official)
+> - **VKONTAKTE** - [Click me](https://vk.com/sheglov_official)
 >
-> - **TELEGRAM:** [Click me](https://t.me/sheglov_official)
+> - **TELEGRAM** - [Click me](https://t.me/sheglov_official)
 >
-> - **GITHUB:** [Click me](https://github.com/sheglovofficial)
+> - **GITHUB** - [Click me](https://github.com/sheglovofficial)
 
 ---
 
@@ -50,10 +50,20 @@
 #### **EDUCATION**
 
 > **Lipetsk State Technical University** - _Faculty of Automation and Informatics_ (I am a university student)
+>
 
----
+***
+
+#### **Additional education**
+
+> - **HTML Academy** - [Click me](https://htmlacademy.ru/)
+>
+> - **Glo Academy** -  [Click me](https://www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg)
+
+***
 
 #### **LANGUAGES**
 
 > - Russia (native)
+>
 > - English (A1)
