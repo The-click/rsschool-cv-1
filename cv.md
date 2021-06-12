@@ -30,7 +30,7 @@
 
 #### **SKILLS**
 
-> `HTML` `CSS` `Javascript` `Markdown` `Git` > `Bash` `Python` `C#` `Graphics design (Figma)`
+> `HTML` `CSS` `Javascript` `Markdown` `Git` `Bash` `Python` `C#` `Graphics design (Figma)`
 
 ---
 
