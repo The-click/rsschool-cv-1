@@ -30,8 +30,7 @@
 
 #### **SKILLS**
 
-> `HTML` `CSS` `Javascript` `Markdown` `Git`
-> `Bash` `Python` `C#` `Graphics design`
+> `HTML` `CSS` `Javascript` `Markdown` `Git` > `Bash` `Python` `C#` `Graphics design (Figma)`
 
 ---
 
@@ -50,17 +49,18 @@
 #### **EDUCATION**
 
 > **Lipetsk State Technical University** - _Faculty of Automation and Informatics_ (I am a university student)
->
 
-***
+---
 
 #### **Additional education**
 
 > - **HTML Academy** - [Click me](https://htmlacademy.ru/)
 >
-> - **Glo Academy** -  [Click me](https://www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg)
+> - **Glo Academy** - [Click me](https://www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg)
+>
+> - **Courses Language** - [Duolingo](https://www.duolingo.com/) and [Lingualeo](https://lingualeo.com/en)
 
-***
+---
 
 #### **LANGUAGES**
 
