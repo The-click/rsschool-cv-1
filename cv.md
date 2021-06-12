@@ -19,3 +19,38 @@
 ##### **Quote:** _Good friends, good books, and a sleeping conscience are the ideal life._
 
 ***
+
+#### **SUMMERY**
+>
+> A beginner developer, ready to develop every day. There are skills in using Linux systems, knowledge of the basics of computer networks.
+
+***
+
+#### **SKILLS**
+> `HTML` `CSS` `Javascript` `Markdown` `Git`
+> `Bash` `Python` `C#`
+
+***
+
+#### **CODE EXAMPLES**
+>
+> **SAMPLE CODE:** [Click me](https://github.com/sheglovofficial/Console-App)
+
+***
+
+#### **PROFESSIONAL EXPERIENCE**
+>
+> Not at the moment
+
+***
+
+#### **EDUCATION**
+>
+> **Lipetsk State Technical University** - *Faculty of Automation and Informatics* (I am a university student)
+
+***
+
+#### **LANGUAGES**
+>
+> * Russia (native)
+> * English (A1)
