@@ -36,7 +36,26 @@
 
 #### **CODE EXAMPLES**
 
-> **SAMPLE CODE:** [Click me](https://github.com/sheglovofficial/Console-App)
+```python
+import os, shutil
+
+KEY_FOR_SEARCH = input('What are we looking for?\n')
+PATH_FOR_COPY = input('Where to copy files?\n')
+
+def search():
+    for adress, dirs, files in os.walk(input('Enter the beginning of the path: ')):
+        if adress == PATH_FOR_COPY:
+            continue
+        for file in files:
+            if file.endswith('.txt') and '$' not in file:
+                yield os.path.join(adress, file)
+
+def read_from_pathtxt(path):
+    with open(path) as r:
+        for i in r:
+            if KEY_FOR_SEARCH in i:
+                return copy(path)
+```
 
 ---
 
